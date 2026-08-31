@@ -292,7 +292,7 @@ The Tableau dashboard presents the main business performance indicators and anal
 
 
 
-!\[Retail Business Performance Dashboard](images/dashboard.png)
+<img src="images/dashboard.png" alt="Retail Business Performance Dashboard">
 
 
 
