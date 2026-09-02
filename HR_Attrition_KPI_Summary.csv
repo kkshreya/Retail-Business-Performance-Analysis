@@ -1,0 +1,10 @@
+Metric,Value
+Total Employees,1470.0
+Attrition Count,372.0
+Attrition Rate,0.2531
+Avg Monthly Income (Attrited),7372.0
+Avg Monthly Income (Retained),9336.0
+Avg Job Satisfaction (Attrited),2.62
+Avg Job Satisfaction (Retained),2.82
+OverTime Attrition Rate,0.3799
+No-OverTime Attrition Rate,0.2043
